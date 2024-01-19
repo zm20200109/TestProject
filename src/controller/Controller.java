@@ -21,7 +21,7 @@ public class Controller {
     private ArrayList<User> users = new ArrayList<>();
     private List<Poruka> poruke = new ArrayList<>();
     private int kapacitet=0;
-    
+    //ZOKA JE OVO DODAO
     private ArrayList<User> ulogovani = new ArrayList<>();
     
     private Controller(){
