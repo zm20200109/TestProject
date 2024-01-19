@@ -29,7 +29,7 @@ public class Controller {
         Admin a1=new Admin("mika@gmail.com", "mika1", "Mika", "Mahovac");
         admins.add(a1);
         
-        
+        //SALJEM MIKI PULL!!!
         User u1 = new User("ana123", "123456");
         User u2 = new User("biba123", "123456");
         User u3=new User("mira123", "123456");
